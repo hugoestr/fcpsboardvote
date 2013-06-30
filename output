@@ -1,0 +1,36 @@
+********
+{"unanimous"=>false, "passed"=>true, "count"=>"9-0", "yeas"=>"9", "nays"=>"0", "Ms. Derenak Kaufax"=>"aye", "Ms. Evans"=>"aye", "Mr. McElveen"=>"aye", "Ms. McLaugh lin"=>"aye", "Mr. Moon"=>"aye", "Ms. Schultz"=>"aye", "Mrs. Smith"=>"aye", "Mrs. Strauss"=>"aye", ""=>"aye", "Mr. Velkoff"=>"aye", "Mr. Storck"=>"error", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
+********
+{"unanimous"=>false, "passed"=>true, "count"=>"7-0-1", "yeas"=>"7", "absent"=>"1", "Ms. Derenak Kaufax"=>"aye", "Ms. Evans"=>"aye", "Mr. McElveen"=>"aye", "Mr. Moon"=>"aye", "Mrs. Smith"=>"aye", "Mrs. Strauss"=>"aye", ""=>"aye", "Mr. Velkoff"=>"aye", "Mr. Storck"=>"error", "Ms. McLaughlin"=>"not present", "Ms. Schultz"=>"not present", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
+********
+{"unanimous"=>false, "passed"=>true, "count"=>"8-0", "yeas"=>"8", "nays"=>"0", "Ms. Derenak Kaufax"=>"aye", "Ms. Evans"=>"aye", "Mr. McElveen"=>"aye", "Mr. Moon"=>"aye", "Mrs. Smith"=>"aye", "Mr. Storck"=>"aye", "Mrs. Strauss"=>"aye", ""=>"aye", "Mr. Velkoff"=>"aye", "Ms. McLaughlin"=>"not present", "Ms. Schultz"=>"not present", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
+********
+{"unanimous"=>false, "passed"=>true, "count"=>"8-2", "yeas"=>"8", "nays"=>"2", "Ms. Derenak Kaufax"=>"aye", "Ms. Evans"=>"aye", "Mr. McElveen"=>"aye", "Mr. Moon"=>"aye", "Mrs. Smith"=>"aye", "Mr. Storck"=>"aye", "Mrs. Strauss"=>"aye", ""=>"aye", "Mr. Velkoff"=>"aye", "Ms. McLaughlin"=>"nay", "Ms. Schultz"=>"nay", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
+********
+{"unanimous"=>false, "passed"=>true, "count"=>"9-1", "yeas"=>"9", "nays"=>"1", "Ms. Derenak Kaufax"=>"aye", "Ms. Evans"=>"aye", "Mr. McElveen"=>"aye", "Ms. McLaughlin"=>"aye", "Mr. Moon"=>"aye", "Ms. Schultz"=>"aye", "Mr. Storck"=>"aye", "Mrs. Strauss"=>"aye", ""=>"aye", "Mr. Velkoff"=>"aye", "Mrs. Smith"=>"nay", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
+********
+{"unanimous"=>false, "passed"=>true, "count"=>"8-2", "yeas"=>"8", "nays"=>"2", "Ms. Derenak Kaufax"=>"aye", "Ms. Evans"=>"aye", "Mr. McElveen"=>"aye", "Mr. Moon"=>"aye", "Mrs. Smith"=>"aye", "Mr. Storck"=>"aye", "Mrs. Strauss"=>"aye", ""=>"aye", "Mr. Velkoff"=>"aye", "Ms. McLaughlin"=>"nay", "Ms. Schultz"=>"nay", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
+********
+{"unanimous"=>false, "passed"=>false, "count"=>"1-9", "yeas"=>"1", "nays"=>"9", "Ms. Schultz"=>"aye", "Ms. Derenak Kaufax"=>"nay", "Ms. Evans"=>"nay", "Mr. McElveen"=>"nay", "Ms. McLaughlin"=>"nay", "Mr. Moon"=>"nay", "Mrs. Smith"=>"nay", "Mr. Storck"=>"nay", "Mrs. Strauss"=>"nay", ""=>"nay", "Mr. Velkoff"=>"nay", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
+********
+{"unanimous"=>false, "passed"=>true, "count"=>"9-1", "yeas"=>"9", "nays"=>"1", "Ms. Derenak Kaufax"=>"aye", "Ms. Evans"=>"aye", "Mr. McElveen"=>"aye", "Ms. McLaughlin"=>"aye", "Mr. Moon"=>"aye", "Mrs. Smith"=>"aye", "Mr. Storck"=>"aye", "Mrs. Strauss"=>"aye", ""=>"aye", "Mr. Velkoff"=>"aye", "Ms. Schultz"=>"nay", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
+********
+{"unanimous"=>false, "passed"=>true, "count"=>"8-2", "yeas"=>"8", "nays"=>"2", "Ms. Derenak Kaufax"=>"aye", "Ms. Evans"=>"aye", "Mr. McElveen"=>"aye", "Ms. McLaughlin"=>"aye", "Mr. Moon"=>"aye", "Ms. Schultz"=>"aye", "Mr. Storck"=>"aye", ""=>"aye", "Mrs. Strauss"=>"aye", "Mrs. Smith"=>"nay", "Mr. Velkoff"=>"nay", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
+********
+{"unanimous"=>false, "passed"=>true, "count"=>"8-0-2", "yeas"=>"8", "absent"=>"2", "Ms. Derenak Kaufax"=>"aye", "Ms. Evans"=>"aye", "Mr. McElveen"=>"aye", "Mr. Moon"=>"aye", "Ms. Schultz"=>"aye", "Mrs. Smith"=>"aye", "Mrs. Strauss"=>"aye", ""=>"aye", "Mr. Velkoff"=>"aye", "Ms. McLaughlin"=>"error", "Mr. Storck"=>"error", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
+********
+{"unanimous"=>false, "passed"=>true, "count"=>"7-0-2", "yeas"=>"7", "absent"=>"2", "Ms. Derenak Kaufax"=>"aye", "Ms. Evans"=>"aye", "Mr. McElveen"=>"aye", "Mr. Moon"=>"aye", "Mrs. Smith"=>"aye", "Mrs. Strauss"=>"aye", ""=>"aye", "Mr. Velkoff"=>"aye", "Ms. McLaughlin"=>"error", "Ms. Schultz"=>"error", "Mr. Storck"=>"error", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
+********
+{"unanimous"=>false, "passed"=>true, "count"=>"9-0", "yeas"=>"9", "nays"=>"0", "Ms. Derenak Kaufax"=>"aye", "Ms. Evans"=>"aye", "Mr. McElveen"=>"aye", "Ms. McLaughlin"=>"aye", "Mr. Moon"=>"aye", "Ms. Schultz"=>"aye", "Mrs. Smith"=>"aye", "Mrs. Strauss"=>"aye", ""=>"aye", "Mr. Velkoff"=>"aye", "Mr. Storck"=>"error", "Ms. Hynes"=>"not present", "Mrs. Reed"=>"not present"}
+***********
